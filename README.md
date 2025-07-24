@@ -11,7 +11,10 @@ A simple and fun implementation of the classic **Tic Tac Toe** game built using 
 
 ## 📸 Screenshot
 
-![Game Screenshot](screenshot.png) <!-- Replace with actual screenshot path -->
+<img width="1899" height="899" alt="image" src="https://github.com/user-attachments/assets/36f0bb24-29ff-448b-8eae-4728c98043c1" />
+<img width="1456" height="608" alt="image" src="https://github.com/user-attachments/assets/30b24d07-0a6a-42ec-9949-5bb0a6384ed6" />
+
+
 
 ## 🚀 Getting Started
 
